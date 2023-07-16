@@ -1,0 +1,30 @@
+body, html {
+    height: 100%;
+}
+
+.slices {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.top {
+    background-color: #1F2937;
+    flex: 1 0 0;
+}
+
+.information {
+    background-color: #FFF;
+    flex: 1 0 0;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    flex: 1 0 0;
+}
+
+.bottom {
+    background-color: #fff;
+    flex: 1 0 0;
+}
